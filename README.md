@@ -6,4 +6,4 @@
 ##### API built using json-server
 
 
-
+[x] Setup CRUD operations between the API and Client App
