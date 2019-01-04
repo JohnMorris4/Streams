@@ -9,6 +9,12 @@
       "title": "test stream",
       "description": "testing",
       "id": 2
+    },
+    {
+      "title": "Test another stream",
+      "description": "give it a go",
+      "userId": "104259095730096866523",
+      "id": 3
     }
   ]
 }
