@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "axios": "^0.18.0",
-    "jshint": "^2.9.7",
-    "lodash": "^4.17.11",
-    "redux-thunk": "^2.3.0"
-  }
-}
