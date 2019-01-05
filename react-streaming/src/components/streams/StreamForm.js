@@ -1,5 +1,6 @@
 import React, {Component}  from 'react'
 import {Field, reduxForm } from 'redux-form'
+import {Link} from 'react-router-dom'
 
 class StreamForm extends Component {
     renderError({ error, touched }) {
@@ -36,6 +37,7 @@ class StreamForm extends Component {
               
               <Field name="description" component={this.renderInput} label="Enter Description" />
               <button className="ui button primary">Submit</button>
+              <Link to="/" className="ui button"> Cancel</Link>
             </form>
         
           )
